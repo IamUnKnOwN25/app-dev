@@ -6,7 +6,7 @@ My first repository
 # "Titanic" <br />
 
 <p align = "center">
-  <img src="https://github.com/IamUnKnOwN25/app-dev/blob/5023dec59cf441368ed2e6e09df5e3e44c93d45c/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY%40._V1_FMjpg_UX1000_.jpg" width="600" height="800" /> <br />
+  <img src="https://github.com/IamUnKnOwN25/app-dev/blob/5023dec59cf441368ed2e6e09df5e3e44c93d45c/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY%40._V1_FMjpg_UX1000_.jpg" width="600" height="1089" /> <br />
 
 ## Overview <br />
 "Titanic" is a historical romance and disaster film directed by James Cameron and released in 1997. The movie is based on the true story of the RMS Titanic, a British passenger liner that tragically sank on its maiden voyage in 1912.
